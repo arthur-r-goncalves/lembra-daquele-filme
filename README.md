@@ -40,11 +40,10 @@
   <li><a href="https://github.com/imrochamatheus/ja-viu-esse-filme-fakeapi">Ja viu esse filme FakeApi </a>(Fake API criada para este projeto)</li>  
 </ul>
 <hr/>
-<hr/>
-<h3>🔵 Como executar </h3>
-<li> Após o clone do repositório:</li>
+<h3>🔵 Como executar : </h3>
+<li> Após o clone do repositório</li>
 <li> 1 - Utilize o comando yarn para instalar as dependências necessárias</li>
-<li> 2 - yarn start para iniciar a aplicação </li>
+<li> 2 - Execute o comando yarn start para iniciar a aplicação </li>
 <hr/>
 <div align="center">
 <h6> <a href="https://github.com/imrochamatheus">Matheus Rocha</a> (as Tech Lead), <a href="https://github.com/stefanyfellix">Stefany Felix</a> ( as Scrum Master), <a href="https://github.com/arthur-r-goncalves">Arthur Gonçalves</a> (as QA), <a href="https://github.com/tryndadi">Vinícius Trindade</a> (as QA), <a href="https://github.com/gisela-mariano">Gisela Mariano</a> (as QA)</h6>
