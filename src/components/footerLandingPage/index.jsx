@@ -29,7 +29,7 @@ const FooterLandingPage = () => {
             </a>
             <a
               className="icon"
-              href="https://www.linkedin.com/in/arthur-gon%C3%A7alves-271479217"
+              href="https://www.linkedin.com/in/arthur-r-goncalves"
               target="_blank"
               rel="noopener noreferrer"
             >
